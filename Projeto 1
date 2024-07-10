@@ -1,0 +1,13 @@
+*{pdding: 10x;
+margin: 5px;
+}
+h1{
+    background-image: linear-gradient(to right, blue, black);
+    color: white;
+}
+body{
+     background-color: gray;
+}
+label{
+      font-style: italic;
+}
